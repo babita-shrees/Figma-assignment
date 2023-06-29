@@ -1,0 +1,218 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.fa-angle-down {
+  padding-left: 13px;
+}
+
+.navmenu {
+  padding-left: 13em;
+}
+
+button {
+  width: 179px;
+  height: 57px;
+  top: 38px;
+  left: 1161px;
+  background: #0176ff;
+}
+
+h1 {
+  font-family: Inter;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 73px;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.nav-item dropdown {
+  border: 2px solid #858a8f;
+  height: 24px;
+  top: 52px;
+  left: 502.5px;
+}
+
+.subscriptionparagraph {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 35px;
+  letter-spacing: 0px;
+  text-align: center;
+  margin-top: 35px;
+  color: #858a8f;
+}
+
+.card-body-1 {
+  width: 498px;
+  height: 853px;
+  padding-top: 70px;
+}
+
+#logo {
+  padding-left: 20px;
+}
+
+#cards {
+  background-color: #f5f6fa;
+}
+
+#cardsection {
+  width: 392px;
+  height: 181px;
+}
+
+#cardimg {
+  width: 80px;
+  height: 80px;
+  margin-left: 30px;
+  margin-top: 32px;
+}
+
+.card-title fw-bold {
+  padding-left: 30px;
+  padding-top: 141.36px;
+}
+
+#cardtitle {
+  padding-left: 13.5px;
+  padding-top: 30px;
+  text-align: left;
+}
+
+#cardpara {
+  padding-left: 35px;
+  padding-right: 13.5px;
+  padding-top: 15px;
+  color: #858a8f;
+  font-size: large;
+  text-align: left;
+}
+
+#cardparag {
+  padding-left: 13.5px;
+  padding-right: 13.5px;
+  padding-top: 15px;
+  color: #858a8f;
+  font-size: large;
+  text-align: left;
+}
+#card-heading {
+  padding-top: 100px;
+  padding-bottom: 75px;
+  text-align: center;
+}
+
+#subheading {
+  padding-top: 95px;
+}
+
+#idgroup {
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 105px;
+}
+
+.footer-subtitle {
+  padding-left: 2rem;
+  font-weight: bold;
+  font-size: clamp(1.4rem, 2.5vw, 1.4rem);
+}
+
+.resume-button {
+  background: #e5f1ff;
+  padding: 0.8rem 3.5rem;
+}
+
+.footer-social-media {
+  background: #f5f6fa;
+  padding: 0.4rem 0.6rem;
+  border-radius: 0.3rem;
+}
+
+.footer-list {
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  color: #858a8f;
+  list-style-type: none;
+}
+
+#subscriptioncardgrp {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+#copyright {
+  color: #898a8e;
+}
+
+#footerlogo {
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  color: #898a8e;
+  padding-top: 50px;
+  padding-left: 12px;
+}
+
+#card2 {
+  box-shadow: 2px 19px 25px rgb(194, 191, 191);
+}
+
+#socialmedia {
+  padding-left: 12px;
+  padding-top: 20px;
+}
+
+#button1 {
+  background: #e5f1ff;
+  color: #377dff;
+  width: 392px;
+  height: 66px;
+  padding-top: 20px;
+  text-align: center;
+}
+#button2 {
+  background: #377dff;
+  width: 392px;
+  height: 66px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#cardheading {
+  text-align: left;
+  padding-left: 35px;
+}
+
+#content {
+  color: #858a8f;
+
+  text-align: left;
+  padding-left: 13.5px;
+}
+
+#list {
+  padding-left: 90px;
+}
+#list li {
+  padding-bottom: 25px;
+  list-style-type: none;
+  color: #858a8f;
+  font-size: large;
+}
+#list-id {
+  margin-top: -1rem;
+}
+
+#checkmark {
+  padding-right: 1rem;
+}
+hr {
+  border: 1.25px solid grey !important;
+  margin-left: 32px !important;
+  margin-right: 32px !important;
+}
