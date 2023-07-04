@@ -1,5 +1,7 @@
 /* styles.css */
-
+* {
+  font-family: "Inter", sans-serif;
+}
 /* Navbar styles */
 .navbar {
     background-color: #941e2d;
